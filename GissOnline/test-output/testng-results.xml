@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68841" started-at="2017-07-25T13:05:13Z" finished-at="2017-07-25T13:06:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68841" started-at="2017-07-25T13:05:13Z" finished-at="2017-07-25T13:06:22Z">
+      <class name="gissOnline.Main">
+        <test-method status="PASS" signature="startUP()[pri:0, instance:gissOnline.Main@1e88b3c]" name="startUP" is-config="true" duration-ms="7953" started-at="2017-07-25T10:05:13Z" finished-at="2017-07-25T10:05:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUP -->
+        <test-method status="PASS" signature="test1_menuAcess()[pri:0, instance:gissOnline.Main@1e88b3c]" name="test1_menuAcess" duration-ms="2352" started-at="2017-07-25T10:05:21Z" finished-at="2017-07-25T10:05:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1_menuAcess -->
+        <test-method status="PASS" signature="sairNavegador()[pri:0, instance:gissOnline.Main@1e88b3c]" name="sairNavegador" is-config="true" duration-ms="385" started-at="2017-07-25T10:05:23Z" finished-at="2017-07-25T10:05:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sairNavegador -->
+        <test-method status="PASS" signature="startUP()[pri:0, instance:gissOnline.Main@1e88b3c]" name="startUP" is-config="true" duration-ms="7017" started-at="2017-07-25T10:05:24Z" finished-at="2017-07-25T10:05:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUP -->
+        <test-method status="PASS" signature="test2_validaConteudoMenu()[pri:0, instance:gissOnline.Main@1e88b3c]" name="test2_validaConteudoMenu" duration-ms="6022" started-at="2017-07-25T10:05:31Z" finished-at="2017-07-25T10:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2_validaConteudoMenu -->
+        <test-method status="PASS" signature="sairNavegador()[pri:0, instance:gissOnline.Main@1e88b3c]" name="sairNavegador" is-config="true" duration-ms="322" started-at="2017-07-25T10:05:37Z" finished-at="2017-07-25T10:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sairNavegador -->
+        <test-method status="PASS" signature="startUP()[pri:0, instance:gissOnline.Main@1e88b3c]" name="startUP" is-config="true" duration-ms="6822" started-at="2017-07-25T10:05:37Z" finished-at="2017-07-25T10:05:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUP -->
+        <test-method status="PASS" signature="test3_validaConteudoPrestadorEmitirNota()[pri:0, instance:gissOnline.Main@1e88b3c]" name="test3_validaConteudoPrestadorEmitirNota" duration-ms="6814" started-at="2017-07-25T10:05:44Z" finished-at="2017-07-25T10:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3_validaConteudoPrestadorEmitirNota -->
+        <test-method status="PASS" signature="sairNavegador()[pri:0, instance:gissOnline.Main@1e88b3c]" name="sairNavegador" is-config="true" duration-ms="305" started-at="2017-07-25T10:05:51Z" finished-at="2017-07-25T10:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sairNavegador -->
+        <test-method status="PASS" signature="startUP()[pri:0, instance:gissOnline.Main@1e88b3c]" name="startUP" is-config="true" duration-ms="6795" started-at="2017-07-25T10:05:51Z" finished-at="2017-07-25T10:05:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUP -->
+        <test-method status="PASS" signature="test4_validaConteudoPrestadorConsultarNotaIntervalodeNotas()[pri:0, instance:gissOnline.Main@1e88b3c]" name="test4_validaConteudoPrestadorConsultarNotaIntervalodeNotas" duration-ms="3167" started-at="2017-07-25T10:05:58Z" finished-at="2017-07-25T10:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4_validaConteudoPrestadorConsultarNotaIntervalodeNotas -->
+        <test-method status="PASS" signature="sairNavegador()[pri:0, instance:gissOnline.Main@1e88b3c]" name="sairNavegador" is-config="true" duration-ms="296" started-at="2017-07-25T10:06:01Z" finished-at="2017-07-25T10:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sairNavegador -->
+        <test-method status="PASS" signature="startUP()[pri:0, instance:gissOnline.Main@1e88b3c]" name="startUP" is-config="true" duration-ms="6754" started-at="2017-07-25T10:06:01Z" finished-at="2017-07-25T10:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUP -->
+        <test-method status="PASS" signature="test5_validaConteudoPrestadorConsultarNotaPeriodo()[pri:0, instance:gissOnline.Main@1e88b3c]" name="test5_validaConteudoPrestadorConsultarNotaPeriodo" duration-ms="2895" started-at="2017-07-25T10:06:08Z" finished-at="2017-07-25T10:06:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5_validaConteudoPrestadorConsultarNotaPeriodo -->
+        <test-method status="PASS" signature="sairNavegador()[pri:0, instance:gissOnline.Main@1e88b3c]" name="sairNavegador" is-config="true" duration-ms="364" started-at="2017-07-25T10:06:11Z" finished-at="2017-07-25T10:06:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sairNavegador -->
+        <test-method status="PASS" signature="startUP()[pri:0, instance:gissOnline.Main@1e88b3c]" name="startUP" is-config="true" duration-ms="6752" started-at="2017-07-25T10:06:11Z" finished-at="2017-07-25T10:06:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUP -->
+        <test-method status="PASS" signature="test7_validaConteudoTomadorEmissaoNota()[pri:0, instance:gissOnline.Main@1e88b3c]" name="test7_validaConteudoTomadorEmissaoNota" duration-ms="3480" started-at="2017-07-25T10:06:18Z" finished-at="2017-07-25T10:06:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7_validaConteudoTomadorEmissaoNota -->
+        <test-method status="PASS" signature="sairNavegador()[pri:0, instance:gissOnline.Main@1e88b3c]" name="sairNavegador" is-config="true" duration-ms="325" started-at="2017-07-25T10:06:22Z" finished-at="2017-07-25T10:06:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sairNavegador -->
+      </class> <!-- gissOnline.Main -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
